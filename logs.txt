@@ -1,0 +1,7 @@
+commit b5d9614fa8abe38a9f26b4b5c10f5cae659de825 (HEAD -> logs, 
+origin/master, master)
+Author: unknown <Iva.Pecevska@students.finki.ukim.mk>
+Date:   Thu Apr 4 09:38:55 2019 +0200
+
+    Initial commit
+
